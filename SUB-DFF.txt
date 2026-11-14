@@ -54,7 +54,6 @@ https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml
 https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs_base64.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/base64/all_sub.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Subscriptions/Sub10.txt
-https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_nodes.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/proxies.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub2.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt
@@ -97,7 +96,6 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Subscriptions/Su
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Subscriptions/Sub14.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Subscriptions/Sub15.txt
 https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
-https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra-health-report.json
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/sub.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/stats.json
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt
@@ -114,7 +112,6 @@ https://raw.githubusercontent.com/pog7x/vpn-configs/master/githubmirror/10.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/master/githubmirror/11.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/master/githubmirror/12.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/master/githubmirror/13.txt
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
 https://raw.githubusercontent.com/Argh94/Proxy-List/main/Hysteria2.txt
 https://raw.githubusercontent.com/Argh94/Proxy-List/main/SOCKS4.txt
 https://raw.githubusercontent.com/Argh94/Proxy-List/main/SOCKS5.txt
@@ -154,3 +151,22 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_c
 https://sunmiao4458.github.io/free-proxy-airport/clash.yaml
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/clash.yaml
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/proxies.txt
+https://raw.githubusercontent.com/WLget/V2Ray_configs_64/master/ConfigSub_list.txt
+https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_ss.txt
+https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_trojan.txt
+https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_vless.txt
+https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/ss.txt
+https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/vmess.txt
+https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub3.txt
+https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_vmess.txt
+https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-country/AE.txt
+https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-country/AL.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/shadowsocks.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess.txt
+https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless.txt
+https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vless.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vmess.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/trojan.txt
